@@ -64,7 +64,6 @@ Table of Contents
    Files/toctree.rst
    Dictionaries/toctree.rst
    Functions/toctree.rst
-   Tuples/toctree.rst
    MoreAboutIteration/toctree.rst
    AdvancedFunctions/toctree.rst
    Sorting/toctree.rst
@@ -80,9 +79,12 @@ Table of Contents
     :hidden:
 
     Projects/toctree.rst
+    Tuples/toctree.rst
+
 
 Appendices
 ::::::::::
+
 
 .. ignore
    :caption: Appendices
@@ -93,6 +95,7 @@ Appendices
 
 Project List
 ============
+
 
 This book includes many projects.  These projects are not meant to *test* your knowledge they are here to give you an opportunity to *challenge yourself* and your teammates to learn new programming and problem solving skills.  Each project builds on the skills learned in the previous projects.  If you are brand new to programming you will want to start at the beginning, if you have some prior experience, you can dive in with any project that looks interesting to you.
 

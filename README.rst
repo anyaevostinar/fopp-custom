@@ -1,3 +1,7 @@
+Custom Version:
+This is an experiment to combine chapters from https://github.com/RunestoneInteractive/fopp and https://github.com/RunestoneInteractive/pythonds
+
+
 Foundations of Python Programming
 =================================
 
