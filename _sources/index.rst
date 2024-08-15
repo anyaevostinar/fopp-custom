@@ -65,12 +65,15 @@ Table of Contents
    Dictionaries/toctree.rst
    Functions/toctree.rst
    MoreAboutIteration/toctree.rst
-   AdvancedFunctions/toctree.rst
-   Sorting/toctree.rst
    NestedData/toctree.rst
+   Classes/toctree.rst
+   Recursion/toctree.rst
+   AlgorithmAnalysis/toctree.rst
+   SortSearch/toctree.rst
    TestCases/toctree.rst
    Exceptions/toctree.rst
-   Classes/toctree.rst
+   AdvancedFunctions/toctree.rst
+   Sorting/toctree.rst
    BuildingPrograms/toctree.rst
    Inheritance/toctree.rst
    AdvancedAccumulation/toctree.rst
